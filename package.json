@@ -9,6 +9,8 @@
   "author": "Natalia",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fancyapps/ui": "^4.0.7",
     "browser-sync": "^2.27.5",
     "del": "^6.0.0",
     "dell": "0.0.0",
@@ -22,5 +24,6 @@
     "jquery": "^3.6.0",
     "sass": "^1.43.2",
     "slick-carousel": "^1.8.1"
-  }
+  },
+  "dependencies": {}
 }
