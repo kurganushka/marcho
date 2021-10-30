@@ -32,7 +32,7 @@ a {
 .title {
     text-align: center;
     @extend %roboto-700;
-    font-style: 48px;
+    font-size: 48px;
     line-height: 65px;
     color: $title;
     margin-bottom: 10px;
