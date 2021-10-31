@@ -703,6 +703,9 @@ footer {
         color: $accent;
         display: block;
     }
+    &__text {
+        margin-bottom: 25px;
+    }
 }
 
 @import 'media';
