@@ -53,10 +53,10 @@ footer {
         margin-bottom: 42px;
         font-size: 22px;
         line-height: 1;
+        pointer-events: none;
     }
-    &__list{
-      pointer-events: none;
-    }
+  
+    
     &__item-link {
         margin-bottom: 10px;
         display: block;
@@ -152,6 +152,9 @@ footer {
     }
     &__list{
       display: none;
+    }
+    &__title{
+      pointer-events: all;
     }
   }
   .footer-bottom{
